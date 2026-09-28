@@ -1,0 +1,7 @@
+# .env
+venv/
+__pycache__/
+*.pyc
+doctor_patient.db
+.pytest_cache/ by pytest automatically.
+*
